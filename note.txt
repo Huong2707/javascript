@@ -16,3 +16,15 @@ console.log(`what is your name ?`,`My name's`,obj.name,obj)
 console.log(`where are you from ?`,`I'm from`,obj['address'])
 2.Array
 let b=[];//khai báo array rỗng,array quản lý các phần tử thông qua index
+
+Chuong3:videothu11
+i++:thuc hien xong moi tang i
+++i: tang gia tricuar i xong moi thuc hien cac cau lenh trong vong a for
+
+#video14 bai10chuong2
+1.Cách dùng --- và --
+--- se so sanh type,value neu type vaf value dung thi ket qua moi ra true vi du:a=9,b='9' result =>false vi k cung type
+-- se so sanh value thoi k can den type vidu:a=9,b='9' result =>true vi b trong js no se ep kieu sang so de so sanh
+=> vi vay dung ---
+2. Empy, null,undefined
+khi khai báo một biến nên khởi tạo giá trị cho nó
